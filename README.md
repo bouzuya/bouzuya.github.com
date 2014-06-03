@@ -1,6 +1,8 @@
 blog.bouzuya.net
 ==============================================================================
 
+**THIS REPOSITORY IS DEPRECATED. => [bouzuya/blog.bouzuya.net](https://github.com/bouzuya/blog.bouzuya.net/). **
+
 bouzuya's blog.
 
 書きかたメモ
@@ -50,4 +52,3 @@ minutes: に書くのにかけた時間をつける。
 - [ ] 「つくった(hubot-script)」を週1回以上書く
 - [ ] 「つくった(料理)」を週1回以上書く
 - [ ] 「週のふりかえり」を週1回日曜日に書く
-
